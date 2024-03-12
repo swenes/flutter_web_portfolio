@@ -1,16 +1,4 @@
 # web_portfolio
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Welcome to my first foray into web development – a dazzling and responsive Flutter web portfolio! This project is not just a static showcase; <br>It is a dynamic and visually engaging experience that effortlessly adapts to different screen sizes, providing a seamless presentation on mobile, tablet and desktop devices. I also inject some creativity with meticulously crafted animations, turning your portfolio into an immersive journey for your visitors.<br>Since this is my first step in the web field, I would be very pleased if we could discuss possible errors in the topics section :) Here are a few photos of the project:
+ 
